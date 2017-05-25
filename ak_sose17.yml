@@ -1,0 +1,235 @@
+- name: AK Rote Fäden der Studienreform
+  responsible: Stefan (Köln)
+  room: "1'305"
+  slotid: AK6
+  url: https://zapf.wiki/SoSe17_AK_Rote_Faeden_der_Studienreform
+
+- name: AK Praktika
+  responsible: Ludi (Er-Nbg)
+  room: "1'306"
+  slotid: AK2
+  url: https://zapf.wiki/SoSe17_AK_Praktika
+
+- name: AK Abiwissen
+  responsible: Leon (FU Berlin)
+  room: "1'306"
+  slotid: AK2 
+  url: https://zapf.wiki/SoSe17_AK_Praktika
+
+- name: AK Hochschulwahlwerbung
+  responsible: Ludi (Er-Nbg)
+  room: "1'304"
+  slotid:AK5 
+  url: https://zapf.wiki/SoSe17_AK_Hochschulwahlwerbung
+
+- name: AK BaMa Umfrage Teil 1
+  responsible: Sonja (Bonn)
+  room: "1'303"
+  slotid: AK3
+  url: https://zapf.wiki/SoSe17_AK_BaMa_Umfrage
+
+- name: AK Position zur BaMa Umfrage Teil 2
+  responsible: Sonja(Bonn)
+  room: "1'303"
+  slotid: AK4
+  url: https://zapf.wiki/SoSe17_AK_BaMa_Umfrage_Position
+
+- name: GO- und Satzungsänderung
+  responsible: "Sonja (Bonn), Fluff (Bonn), BJörg (RWTFU Berlin)"
+  room: "1'305"
+  slotid: AK2
+  url: https://zapf.wiki/SoSe17_GO_Satzung
+
+- name: AK Austausch
+  responsible: Thomi (HD)
+  room: "0'311"
+  slotid: AK6
+  url: https://zapf.wiki/SoSe17_AK_Austausch
+
+- name: AK Der StAPF stellt sich vor
+  responsible: alle StAPF-Mitglieder
+  room: "1'307"
+  slotid: AK5
+  url: https://zapf.wiki/SoSe17_AK_StAPF
+
+- name: Mitgliederversammlung ZaPF e.V.
+  responsible:
+  room: "1'308"
+  slotid: AK6
+  url: https://zapf.wiki/SoSe17_ZaPF_e.V.
+
+- name: Vernetzung der ZaPF-Orgas
+  responsible: Kathii (Ffm)
+  room: "1'307"
+  slotid: AK4
+  url: https://zapf.wiki/SoSe17_AK_ZaPF-Orga
+
+- name: Studiengebühren BaWü
+  responsible: Johannes (Tuebingen)
+  room: "1'303"
+  slotid: AK1
+  url: https://zapf.wiki/SoSe17_AK_Studiengeb%C3%BChren_BaW%C3%BC
+
+- name: AK Studienführer
+  responsible: Paddy (Konschdans), Fabs (TU Berlin)
+  room: "1'303"
+  slotid: AK5
+  url: https://zapf.wiki/index.php?title=SoSe17_AK_Studienf%C3%BChrer&action=edit&redlink=1
+
+- name: AK MeTaFa
+  responsible: Peter Steinmüller (KIT)
+  room: "1'305"
+  slotid: AK6
+  url: https://zapf.wiki/SoSe17_AK_MeTaFa
+
+- name: AK Lehramt
+  responsible: eNik (Konschdans), Niklas (TUBS)
+  room: "1'307"
+  slotid: AK2
+  url: https://zapf.wiki/SoSe17_AK_Lehramt
+
+- name: AK Exzellenzinitiative 1
+  responsible: Kathii (Ffm), Martin (Alumni), Vicky (KIT)
+  room: "1'308"
+  slotid: AK3
+  url: https://zapf.wiki/SoSe17_AK_Exzellenzinitiative
+
+- name: AK Exzellenzinitiative 2
+  responsible: Kathii (Ffm), Martin (Alumni), Vicky (KIT)
+  room: "1'308"
+  slotid: AK4
+  url: https://zapf.wiki/SoSe17_AK_Exzellenzinitiative
+
+- name: AK Physikalisches Praktikum 2.0
+  responsible: OHA (Würzburg), Schmampf (Konschdans)
+  room: "1'306"
+  slotid: AK1
+  url: https://zapf.wiki/SoSe17_AK_Physikalisches_Praktikum_2.0
+
+- name: AK Vernetzung der ZaPF mit Doktorantenvertretungen
+  responsible: Phillipp (Ffm)
+  room: "1'307"
+  slotid: AK3
+  url: https://zapf.wiki/SoSe17_AK_Vernetzung_der_ZaPF_mit_Doktorantenvertretungen
+
+- name: AK CHE Ranking
+  responsible: "Fredrica (HUB), Thomi (HD)"
+  room: "0'313"
+  slotid: AK5
+  url: https://zapf.wiki/SoSe17_AK_CHE_Ranking
+
+- name:  AK Ethikmodul Umfrage
+  responsible: Philipp (TUK)
+  room: "1'306"
+  slotid: AK5
+  url: https://zapf.wiki/index.php?title=SoSe17_AK_Ethikmodul_Umfrage
+
+- name: AK Frauen in akademischer Karriere
+  responsible: Daniela (Konschdans)
+  room: "1'305"
+  slotid: AK5
+  url: https://zapf.wiki/SoSe17_AK_Frauen_in_akademischer_Karriere
+
+- name: AK VG Wort
+  responsible: Paddy (Konschdans), Vicky (KIT)
+  room: "0'311"
+  slotid: AK1
+  url: https://zapf.wiki/SoSe17_AK_VG-Wort
+
+- name: AK Symptompflicht
+  responsible: 
+  room: "1'307"
+  slotid: AK1
+  url: https://zapf.wiki/index.php?title=SoSe17_AK_Symptompflicht
+
+- name: AK BAföG
+  responsible: Peter Steinmüller (KIT)
+  room: "1'308"
+  slotid: AK1
+  url: https://zapf.wiki/SoSe17_AK_BAf%C3%B6G
+
+- name: AK TOPF und ZaPF-IT / Zentrales Anmeldesystem
+  responsible: Jan (FUB)
+  room: "1'306"
+  slotid: AK6
+  url: https://zapf.wiki/SoSe17_AK_TOPF
+
+- name: AK Anwesenheitspflicht abwehren
+  responsible: Jakob (Göttingen)
+  room: "0'313"
+  slotid: AK2
+  url: https://zapf.wiki/SoSe17_AK_Anwesenheitspflicht_abwehren
+
+- name: AK gesellschaftliche Verantwortung und Zivilklausel
+  responsible: Stefan (Köln), Judith (Köln)
+  room: "0'311"
+  slotid: AK3
+  url: https://zapf.wiki/SoSe17_AK_gesellschaftliche_Verantwortung_und_Zivilklausel
+
+- name: AK Klausurversuche
+  responsible: Judith (Köln)
+  room: "0'311"
+  slotid: AK4
+  url: https://zapf.wiki/SoSe17_AK_Klausurversuche
+
+- name: AK Tenure Track
+  responsible: Merten (jDPG / Göttingen)
+  room: "1'303"
+  slotid: AK2
+  url: https://zapf.wiki/SoSe17_AK_Tenure_Track
+
+- name: AK Fortbildung der Vertrauenspersonen
+  responsible: Clara (Ffm)
+  room: "1'306"
+  slotid: AK3
+  url: https://zapf.wiki/SoSe17_AK_Fortbildung_Vertrauenspersonen
+
+- name: AK Physikveranstaltungen für Nebenfächler
+  responsible: Marcus (Ffm), Laurin (Ffm)
+  room: "1'303"
+  slotid: AK6
+  url: https://zapf.wiki/SoSe17_AK_Physikveranstaltungen_f%C3%BCr_Nebenfaechler
+
+- name: AK Wissenschaftskommunikation
+  responsible: Marcus (Ffm, Tübingen)
+  room: "0'311"
+  slotid: AK2
+  url: https://zapf.wiki/SoSe17_AK_Wissenschaftskommunikation
+
+- name: AK Akkreditierungsrat
+  responsible: Jeannete Gehlert, Kathii (Ffm)
+  room: "1'306"
+  slotid: AK4
+  url: https://zapf.wiki/SoSe17_AK_Akkreditierungsrat
+
+- name: Workshop Git
+  responsible: BJörg (RWTFU Berlin)
+  room: "1'305"
+  slotid: AK3
+  url: https://zapf.wiki/SoSe17_WS_Git
+
+- name: Workshop Akkreditierungs
+  responsible: Kathii (Ffm), Florian (TUM)
+  room: "1'304"
+  slotid: AK3
+  url: https://zapf.wiki/SoSe17_WS_Akkreditierung
+
+- name: Workshop Irgendwas mit Crypto
+  responsible: BJörg (RWTFU Berlin)
+  room: "1'305"
+  slotid: AK4
+  url: https://zapf.wiki/index.php?title=SoSe17_WS_Crypto
+
+- name: Workshop Reso schreiben für humanoide Wesen, die so was noch nie gemacht haben, es aber gerne mal ausprobieren möchten
+  responsible: BJörg (RWTFU Berlin)
+  room: "1'305"
+  slotid: AK1
+  url: https://zapf.wiki/index.php?title=SoSe17_WS_Reso_schreiben
+
+- name: Workshop GO-Schlachten
+  responsible: BJörg (RWTFU Berlin)
+  room: "0'311"
+  slotid: AK5
+  url: https://zapf.wiki/index.php?title=SoSe17_WS_GO-Schlachten
+
+
