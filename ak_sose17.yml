@@ -1,8 +1,14 @@
 - name: AK Rote Fäden der Studienreform
   responsible: Stefan (Köln)
-  room: "1'305"
+  room: "1'304"
   slotid: AK6
   url: https://zapf.wiki/SoSe17_AK_Rote_Faeden_der_Studienreform
+
+- name: AK Lernräume
+  responsible: Fabs (TUB)
+  room: "0'313"
+  slotid: AK1
+  url:
 
 - name: AK Praktika
   responsible: Ludi (Er-Nbg)
@@ -261,4 +267,3 @@
   room: "1'307"
   slotid: BAK1
   url: https://zapf.wiki/index.php?title=SoSe17_AK_Lernräume
-
