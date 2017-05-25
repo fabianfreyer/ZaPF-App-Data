@@ -12,14 +12,14 @@
 
 - name: AK Abiwissen
   responsible: Leon (FU Berlin)
-  room: "1'306"
-  slotid: AK2 
+  room: "1'313"
+  slotid: AK3
   url: https://zapf.wiki/SoSe17_AK_Praktika
 
 - name: AK Hochschulwahlwerbung
   responsible: Ludi (Er-Nbg)
   room: "1'304"
-  slotid:AK5 
+  slotid: AK5 
   url: https://zapf.wiki/SoSe17_AK_Hochschulwahlwerbung
 
 - name: AK BaMa Umfrage Teil 1
@@ -232,4 +232,33 @@
   slotid: AK5
   url: https://zapf.wiki/index.php?title=SoSe17_WS_GO-Schlachten
 
+- name: Novelierung HG Thüringen
+  responsible: Franzi
+  room: "1'304"
+  slotid: AK4
+  url: https://zapf.wiki/index.php?title=SoSe17_HG_Thueringen
+
+- name: AK Praktika
+  responsible: Ludi (Er-Nbg)
+  room: "1'304"
+  slotid: BAK1
+  url: https://zapf.wiki/SoSe17_AK_Praktika
+
+- name: AK Tenure Track
+  responsible: Merten (jDPG / Göttingen)
+  room: "1'306"
+  slotid: BAK1
+  url: https://zapf.wiki/SoSe17_AK_Tenure_Track
+
+- name: AK Physikalisches Praktikum 2.0
+  responsible: OHA (Würzburg), Schmampf (Konschdans)
+  room: "1'305"
+  slotid: BAK1
+  url: https://zapf.wiki/SoSe17_AK_Physikalisches_Praktikum_2.0
+
+- name: Reso-Schreiben Lernräume
+  responsible: Julii (Frankfurt)
+  room: "1'307"
+  slotid: BAK1
+  url: https://zapf.wiki/index.php?title=SoSe17_AK_Lernräume
 
