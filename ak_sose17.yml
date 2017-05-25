@@ -267,3 +267,9 @@
   room: "1'307"
   slotid: BAK1
   url: https://zapf.wiki/index.php?title=SoSe17_AK_Lernräume
+
+- name: AK Lehramt
+  responsible: eNik (Konschdans), Niklas (TUBS)
+  room: "1'303"
+  slotid: BAK1
+  url: https://zapf.wiki/SoSe17_AK_Lehramt
