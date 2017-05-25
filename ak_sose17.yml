@@ -10,6 +10,12 @@
   slotid: AK1
   url:
 
+- name: Gremien-AK
+  responsible: ???
+  room: "1'308"
+  slotid: AK5
+  url:
+
 - name: AK Praktika
   responsible: Ludi (Er-Nbg)
   room: "1'306"
