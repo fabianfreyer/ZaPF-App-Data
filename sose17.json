@@ -3,9 +3,16 @@
         {
             "name": "AK Rote F\u00e4den der Studienreform", 
             "responsible": "Stefan (K\u00f6ln)", 
-            "room": "1'305", 
+            "room": "1'304", 
             "slotid": "AK6", 
             "url": "https://zapf.wiki/SoSe17_AK_Rote_Faeden_der_Studienreform"
+        }, 
+        {
+            "name": "AK Lernr\u00e4ume", 
+            "responsible": "Fabs (TUB)", 
+            "room": "0'313", 
+            "slotid": "AK1", 
+            "url": null
         }, 
         {
             "name": "AK Praktika", 
@@ -17,8 +24,8 @@
         {
             "name": "AK Abiwissen", 
             "responsible": "Leon (FU Berlin)", 
-            "room": "1'306", 
-            "slotid": "AK2", 
+            "room": "1'313", 
+            "slotid": "AK3", 
             "url": "https://zapf.wiki/SoSe17_AK_Praktika"
         }, 
         {
@@ -272,6 +279,41 @@
             "room": "0'311", 
             "slotid": "AK5", 
             "url": "https://zapf.wiki/index.php?title=SoSe17_WS_GO-Schlachten"
+        }, 
+        {
+            "name": "Novelierung HG Th\u00fcringen", 
+            "responsible": "Franzi", 
+            "room": "1'304", 
+            "slotid": "AK4", 
+            "url": "https://zapf.wiki/index.php?title=SoSe17_HG_Thueringen"
+        }, 
+        {
+            "name": "AK Praktika", 
+            "responsible": "Ludi (Er-Nbg)", 
+            "room": "1'304", 
+            "slotid": "BAK1", 
+            "url": "https://zapf.wiki/SoSe17_AK_Praktika"
+        }, 
+        {
+            "name": "AK Tenure Track", 
+            "responsible": "Merten (jDPG / G\u00f6ttingen)", 
+            "room": "1'306", 
+            "slotid": "BAK1", 
+            "url": "https://zapf.wiki/SoSe17_AK_Tenure_Track"
+        }, 
+        {
+            "name": "AK Physikalisches Praktikum 2.0", 
+            "responsible": "OHA (W\u00fcrzburg), Schmampf (Konschdans)", 
+            "room": "1'305", 
+            "slotid": "BAK1", 
+            "url": "https://zapf.wiki/SoSe17_AK_Physikalisches_Praktikum_2.0"
+        }, 
+        {
+            "name": "Reso-Schreiben Lernr\u00e4ume", 
+            "responsible": "Julii (Frankfurt)", 
+            "room": "1'307", 
+            "slotid": "BAK1", 
+            "url": "https://zapf.wiki/index.php?title=SoSe17_AK_Lernr\u00e4ume"
         }
     ], 
     "slots": [
@@ -304,6 +346,13 @@
             "shortname": "AK4"
         }, 
         {
+            "begin": "2017-05-25T20:30:00+0200", 
+            "end": "2017-05-25T21:30:00+0200", 
+            "id": "BAK1", 
+            "name": "Backup-Arbeitskreis 1", 
+            "shortname": "Backup1"
+        }, 
+        {
             "begin": "2017-05-26T15:00:00+0200", 
             "end": "2017-05-26T17:00:00+0200", 
             "id": "AK5", 
@@ -316,13 +365,6 @@
             "id": "AK6", 
             "name": "Arbeitskreis 6", 
             "shortname": "AK6"
-        }, 
-        {
-            "begin": "2017-05-25T20:30:00+0200", 
-            "end": "2017-05-25T21:30:00+0200", 
-            "id": "BAK1", 
-            "name": "Backup-Arbeitskreis 1", 
-            "shortname": "Backup1"
         }, 
         {
             "begin": "2017-05-27T17:00:00+0200", 
