@@ -78,9 +78,9 @@
 
 - name: AK Studienführer
   responsible: Paddy (Konschdans), Fabs (TU Berlin)
-  room: "1'303"
-  slotid: AK5
-  url: https://zapf.wiki/index.php?title=SoSe17_AK_Studienf%C3%BChrer&action=edit&redlink=1
+  room: "0'313"
+  slotid: AK6
+  url: https://zapf.wiki/index.php?title=SoSe17_AK_Studienf%C3%BChrer
 
 - name: AK MeTaFa
   responsible: Peter Steinmüller (KIT)
@@ -273,3 +273,9 @@
   room: "1'303"
   slotid: BAK1
   url: https://zapf.wiki/SoSe17_AK_Lehramt
+
+- name: AK Studienführer Aktualisierung
+  responsible: Paddy (Konschdans), Fabs (TU Berlin)
+  room: "0'313"
+  slotid: BAK2
+  url: https://zapf.wiki/index.php?title=SoSe17_AK_Studienf%C3%BChrer
